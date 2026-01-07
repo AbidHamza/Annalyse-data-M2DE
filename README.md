@@ -57,10 +57,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 │   ├── Room_06_Analyse_Exploratoire_EDA/
 │   ├── Room_07_Introduction_Machine_Learning/
 │   └── Room_08_Mini_Projet_Final/
-└── corrections/             # Solutions complètes (après validation de votre travail)
-    ├── Room_01_.../
-    ├── Room_02_.../
-    └── ...
+└── (Corrections distribuées séparément : non incluses dans ce dépôt)
 ```
 
 ### Contenu de chaque room
@@ -78,7 +75,7 @@ Chaque room contient :
 3. **Compléter les notebooks** : chaque notebook contient des cellules à compléter
 4. **Faire les exercices** : commencer par les exercices guidés, puis les exercices autonomes
 5. **Vérifier votre compréhension** : vous devez être capable d'expliquer chaque concept
-6. **Consulter les corrections** uniquement après avoir terminé la room
+6. Les corrections sont distribuées séparément et non incluses dans ce dépôt
 
 ### Progression pédagogique
 
