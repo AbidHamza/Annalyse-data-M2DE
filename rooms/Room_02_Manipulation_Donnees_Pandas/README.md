@@ -45,3 +45,16 @@ Ces opérations sont la base de toute analyse de données.
 4. Complétez les exercices dans les notebooks
 5. Consultez les exercices guidés puis autonomes du dossier `exercices/`
 
+## 📝 Travail à Rendre
+
+Pour valider cette room, vous devez rendre un **Dossier compressé (ZIP)** contenant :
+
+1.  **Les 4 notebooks du cours complétés** : Assurez-vous d'avoir exécuté toutes les cellules.
+2.  **L'exercice autonome** : Le notebook `exercices/exercice_autonome.ipynb` dûment rempli.
+3.  **Une synthèse Markdown** (`synthese_pandas.md`) de 10 lignes expliquant ce que vous avez retenu sur :
+    - La différence entre `loc` et `iloc`.
+    - L'utilité du `groupby`.
+
+**Format du nom de fichier** : `NOM_Prenom_Room02_Pandas.zip`
+**Date limite** : Selon le calendrier de la formation.
+
