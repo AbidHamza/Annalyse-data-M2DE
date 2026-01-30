@@ -42,6 +42,20 @@ Cette room est dense. Prenez le temps de digérer chaque concept.
 
 Suivez l'ordre des notebooks. Le Mini-Projet finale (04) est un excellent entraînement pour valider vos acquis avant un entretien technique.
 
+## 🎓 Évaluation & Livrable (Important)
+
+Pour valider cette room, vous ne devez rendre **QU'UN SEUL FICHIER**.
+
+1.  Téléchargez le template : `notebooks/05_template_livrable.ipynb`.
+2.  Renommez-le : `NOM_Prenom_Spark_Final.ipynb`.
+3.  Complétez les 4 parties à l'intérieur :
+    - **Partie 1** : Code d'initialisation (Preuve que vous maîtrisez la SparkSession).
+    - **Partie 2** : Une fonction de nettoyage (Preuve que vous savez manipuler les colonnes).
+    - **Partie 3** : Une réponse théorique sur le SQL (Preuve que vous avez compris les Window Functions).
+    - **Partie 4** : Le code COMPLET de votre Mini-Projet NYC Taxi (Preuve que vous savez construire un pipeline).
+    
+**Rendu** : Envoyez uniquement ce fichier `.ipynb` via la plateforme.
+
 ## Prérequis
 
 - Bonne maîtrise de Python et Pandas (Rooms 01 & 02).
