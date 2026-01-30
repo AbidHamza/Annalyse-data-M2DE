@@ -25,13 +25,22 @@ Cette room a pour objectif d'introduire les concepts fondamentaux du Big Data à
 
 Dans un environnement de production traitant des téraoctets de données (logs serveurs, transactions bancaires, données IoT), les outils classiques comme Pandas atteignent leurs limites mémoire. Spark est le standard industriel pour le traitement de données à grande échelle. Savoir passer de Pandas à Spark est une compétence clé pour un Data Engineer ou un Data Scientist Senior.
 
+## Organisation de la Room (Durée estimée : 5-8h)
+
+Cette room est dense. Prenez le temps de digérer chaque concept.
+
+1. **Les Bases (1h)** : `notebooks/01_introduction_pyspark.ipynb`
+   - Comprendre le Driver, les Workers et le DataFrame.
+2. **Manipulation Réelle (1h30)** : `notebooks/02_manipulation_avancee_pyspark.ipynb`
+   - Nettoyer, filtrer, et gérer les types complexes.
+3. **Expertise SQL & Window (2h)** : `notebooks/03_spark_sql_deep_dive.ipynb` **(Crucial)**
+   - Apprendre les Window Functions (`lead`, `lag`, `rank`) qui font la différence en entretien.
+4. **Mini-Projet Final (3h)** : `notebooks/04_mini_projet_nyc_taxi.ipynb`
+   - Un projet capstone complet : Ingestion -> Cleaning -> Feature Engineering -> Business Aggregats.
+
 ## Consignes de travail
 
-1. Ouvrez le notebook `notebooks/01_introduction_pyspark.ipynb`.
-2. Lisez attentivement les explications théoriques avant d'exécuter le code.
-3. Complétez les cellules de code marquées "A COMPLETER".
-4. Réalisez l'exercice de synthèse dans le dossier `exercices/`.
-5. Passez au notebook `notebooks/02_manipulation_avancee_pyspark.ipynb` pour approfondir (SQL, I/O, Cleaning).
+Suivez l'ordre des notebooks. Le Mini-Projet finale (04) est un excellent entraînement pour valider vos acquis avant un entretien technique.
 
 ## Prérequis
 
