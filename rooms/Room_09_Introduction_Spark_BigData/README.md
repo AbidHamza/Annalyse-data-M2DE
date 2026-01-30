@@ -31,6 +31,7 @@ Dans un environnement de production traitant des téraoctets de données (logs s
 2. Lisez attentivement les explications théoriques avant d'exécuter le code.
 3. Complétez les cellules de code marquées "A COMPLETER".
 4. Réalisez l'exercice de synthèse dans le dossier `exercices/`.
+5. Passez au notebook `notebooks/02_manipulation_avancee_pyspark.ipynb` pour approfondir (SQL, I/O, Cleaning).
 
 ## Prérequis
 
