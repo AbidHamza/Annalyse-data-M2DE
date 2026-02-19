@@ -92,3 +92,30 @@ Ce dataset permet d'analyser :
 
 500 lignes
 
+---
+
+## sample_text.txt
+
+### Contexte
+
+Extrait de texte (sonnets de Shakespeare) utilisé pour l'entraînement d'un petit modèle de langage dans la Room 10 (Introduction aux LLM).
+
+### Description
+
+Fichier texte brut en anglais, format UTF-8. Contient des vers de poésie pour apprendre les patterns de caractères et de mots.
+
+### Objectif analytique
+
+Ce fichier permet de :
+- Pratiquer la tokenisation (par caractère ou par mot)
+- Entraîner un petit LLM from scratch
+- Générer du texte dans le style du corpus
+
+### Taille
+
+Environ 3 Ko (extrait court pour un entraînement rapide sur CPU)
+
+### Utilisation
+
+Utilisé dans les notebooks de la Room_10_Introduction_LLM. Chemin relatif depuis les notebooks : `../../data/sample_text.txt`
+

@@ -38,6 +38,11 @@ Installation des dépendances :
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
+Pour la Room 10 (Introduction aux LLM) :
+```
+pip install torch
+```
+
 ## Organisation du dépôt
 
 ### Structure générale
@@ -57,7 +62,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 │   ├── Room_06_Analyse_Exploratoire_EDA/
 │   ├── Room_07_Introduction_Machine_Learning/
 │   ├── Room_08_Mini_Projet_Final/
-│   └── Room_09_Introduction_Spark_BigData/
+│   ├── Room_09_Introduction_Spark_BigData/
+│   └── Room_10_Introduction_LLM/
 └── (Corrections distribuées séparément : non incluses dans ce dépôt)
 ```
 
@@ -87,7 +93,8 @@ Les rooms sont conçues pour être suivies dans l'ordre :
 - **Rooms 05-06** : Visualisation et exploration approfondie
 - **Room 07** : Introduction au machine learning
 - **Room 08** : Projet synthèse
-- **Room 09** : Introduction au Big Data avec Spark (Pour débutants) ✨
+- **Room 09** : Introduction au Big Data avec Spark (Pour débutants)
+- **Room 10** : Introduction aux LLM (créer et entraîner un petit modèle de langage)
 
 Chaque room s'appuie sur les connaissances acquises dans les rooms précédentes.
 
